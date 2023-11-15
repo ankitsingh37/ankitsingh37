@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @ankitsingh37
+- 👋 Hi, I’m Ankit Kumar Singh
 - 👀 I’m interested in web development, DSA, and data science.
 - 🌱 I’m currently learning ReactJs and NodeJs.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 You can reach out to me
 
-- [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
+# My Skills
+[![My Skills](https://skills.thijs.gg/icons?i=c,html,css,js,mongodb,nodejs,react,py)](https://skills.thijs.gg)
 
 
 <!---
