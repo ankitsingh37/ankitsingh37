@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+# Hey There!
 - 👋 Hi, I’m Ankit Kumar Singh
 - 👀 I’m interested in web development, DSA, and data science.
 - 🌱 I’m currently learning ReactJs and NodeJs.
