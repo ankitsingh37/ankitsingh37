@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on web development projects.
 
 # My Skills
-[![My Skills](https://skills.thijs.gg/icons?i=c,html,css,js,mongodb,nodejs,react,py)]
+![My Skills](https://skills.thijs.gg/icons?i=c,html,css,js,mongodb,nodejs,react,py)
 
 
 <!---
